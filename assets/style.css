@@ -27,3 +27,7 @@ body {
     background-image: url("/assets/images/raindrops.jpg");
     background-color: #cccccc;
 }
+
+body {
+    background-image: url("https://github.com/ChrGrace/5-Day-Weather-Forecast/blob/main/assets/images/raindrops.jpg?raw=true");
+}
