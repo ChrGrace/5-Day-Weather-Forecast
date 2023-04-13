@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-color: rgb(231, 219, 4);
+}
+
+#city-info {
+    margin: 10px;
+}
+
+.sidebar {
+    background-color: rgb(140, 194, 201);
+    padding: 10px;
+}
+
+.daycard {
+    margin: 10px;
+}
+
+body {
+    background-image: url("/assets/images/raindrops.jpg");
+    background-color: #cccccc;
+}
