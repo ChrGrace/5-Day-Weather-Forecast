@@ -15,6 +15,7 @@ HTML, CSS, JSS and happiness.
 
 # Webpage Screenshot:
 
+https://github.com/ChrGrace/5-Day-Weather-Forecast/blob/main/assets/images/Screenshot%20(3).png?raw=true
 
 
 # Installation:
